@@ -12,3 +12,16 @@
     "name": "typicode"
   }
 }
+"hund":
+[{"TestText":"Time Taken","timeTaken":"","isDone":false},
+ {"TestText":"b. Used Safety process","timeTaken":"","isDone":false},
+ {"TestText":"a. Picked Screw using hand","timeTaken":"","isDone":false},
+ {"TestText":"Safe Acts","timeTaken":"","isDone":false},
+ {"TestText":"b. Fixed Screw 2","timeTaken":"","isDone":false},
+ {"TestText":"a. Fixed Screw 1","timeTaken":"","isDone":false},
+ {"TestText":"Fitted Screws","timeTaken":"","isDone":false},
+ {"TestText":"b. Placed oil valve","timeTaken":"","isDone":false},
+ {"TestText":"a. Used Fastner ","timeTaken":"","isDone":false},
+ {"TestText":"Fitted Filter","timeTaken":"","isDone":false},
+ {"TestText":"All Process Items Picked","timeTaken":"","isDone":false},
+ {"TestText":"All PPE Picked\n","timeTaken":"00:00","isDone":true}]
